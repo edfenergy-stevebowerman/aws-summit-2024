@@ -3,6 +3,13 @@
 
 ---
 
+<center>
+  <img src="./edf-logo.png" height="100"/>
+  <img src="./aws-logo.png" height="100"/>
+</center>
+
+---
+
 ### Useful Links
 - [DevOps Guidance](https://docs.aws.amazon.com/wellarchitected/latest/devops-guidance/devops-guidance.html)
 - [Getting Started with Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/getting-started.html)
