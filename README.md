@@ -3,9 +3,9 @@
 
 ---
 
-<center>
+<p float="left" align="middle">
   <img src="./edf-logo.png" height="200"/><img src="./aws-logo.png" height="200"/>
-</center>
+</p>
 
 ---
 
