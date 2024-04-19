@@ -4,8 +4,7 @@
 ---
 
 <center>
-  <img src="./edf-logo.png" height="100"/>
-  <img src="./aws-logo.png" height="100"/>
+  <img src="./edf-logo.png" height="200"/><img src="./aws-logo.png" height="200"/>
 </center>
 
 ---
