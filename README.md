@@ -1,13 +1,9 @@
 # How EDF UK Built a DevOps Practice on AWS
 ## AWS Summit 2024
 
----
-
 <p float="left" align="middle">
   <img src="./edf-logo.png" height="200"/><img src="./aws-logo.png" height="200"/>
 </p>
-
----
 
 ### Useful Links
 - [DevOps Guidance](https://docs.aws.amazon.com/wellarchitected/latest/devops-guidance/devops-guidance.html)
