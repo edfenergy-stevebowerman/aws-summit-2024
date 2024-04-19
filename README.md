@@ -2,7 +2,7 @@
 ## AWS Summit 2024
 
 <p float="left" align="middle">
-  <img src="./edf-logo.png" height="200"/><img src="./aws-logo.png" height="200"/>
+  <img src="./logos/edf-logo.png" height="200"/><img src="./logos/aws-logo.png" height="200"/>
 </p>
 
 ### Useful Links
